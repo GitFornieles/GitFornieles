@@ -6,9 +6,8 @@
 <p align="justified">
    In my ten years experience as engineer, I've managed different kinds of projects and teams. A year ago I decided through carefull meditation, to transform my career and challange this new fast growing quicly evolving world of IT.</p>
    <p>I've always had a knack for data/info management, finding logic (the true "why?") behind procesess and procedures, and for designing logical step by step solutions; so when I had the chance to assist a client in it's own management system design, I realized this was my true path.</p>
-  <p> And so, now, after finishing a Full Stack Developer Coding Bootcamp, I am starting as a Full Stack Web Developer (but with 10 years of experience managin teams, information, budgets and projects; solving complex problems and meeting deadlines).
+  <p> And so, now, after finishing a Full Stack Developer Coding Bootcamp, I am starting as a Full Stack Web Developer (with 10 years of experience managin teams, information, budgets and projects; solving complex problems and meeting deadlines).
 </p>
-
 
 ### 🧰 Languages, Tools, Frameworks
 
@@ -69,6 +68,7 @@
 <td>alefornieles@hotmail.com</td>
 </tr>
 </table>
+<br />
 
 ### 🌱 I’m currently learning:
   There is always something to learn! After recently finishing Plataforma 5's Coding Bootcamp, I'll be moving forward to:
@@ -76,10 +76,32 @@
   - NextJS
   - React Native
   - BlockChain
+<br />
 
 ### 🌱 Last Milestone:
-  On December 2022, after 3+ months of high intensity training, i finished an 800+ hours coding bootcamp, specializing in PERN stack.
-  Brief Bootcamp description here
+  <p>On December 2022, after months of high intensity training, I finished an 800+ hours coding bootcamp.</p>
+  <p>It was an intensive course, going through the PERN stack for Web development:</p>
+  <p>First stage consisted of almost 2 months with continuous practice of each of the following technologies, a new subject every day </p>
+     
+  - JAVASCRIPT ES6:
+    Data Structures, Selectors, Sorting, Classes, Objects, Promises.
+  - HTML and CSS
+    Tags, Structure, libraries, Flex, Sass, Media Query, Sass
+  - SQL
+    Database, Queries, T-SQL, Schema Design, PostgresSQL, ORM Sequelize
+  - NODEJS
+    Bash, Built-In globals/Modules, NPM, Web Servers, Express, Auth, Axios
+  - REACT
+    JSX, React App, Hooks, React Router, React Context, Redux.
+
+   <p>This stage ended with an individual integrative project.</p>
+   
+   <p>The second stage consisted of the development of projects in teams, using SCRUM methodology.
+    Projects quere organized in Sprints, MoSCoW method was used to establish priorities, and "Daily" meetings were scheduled  at the beginning of every day to organize every activity.
+   Two complete projects were delivered:
+    E-Commerce, presented before a Platforma5's jury.
+    GetViral, presented before the Client.
+</p>
 
 ### Repositories to see:
 <table>
@@ -95,15 +117,23 @@
       <td>TMDB</td>
       <td>Movies and Series database (IMDB alike)</td>
    </tr>
-   
-   
 </table>
-
+</br>
 
 <details>
- <summary><h3>My Journey So Far</h3></summary>
+<h3>My Journey So Far</h3>
    <p>I first started coding in "Logo Writer". Yes, "the little turtle". A very simple program designed for helping children make their first steps in programming. And it was fun.</p>
    <p>Some years later, I played a little with Basic and then Visual Basic; although always more as "something to do".</p>
    <p>Finally, in a more "professional environment" I started working with Excel's macros at my first job. And even though it may not be considered strictly "programming", I saved hundreds of hours just by thinking the complete flow of information, detecting where and how to process it; and what output was required.</p>
    <p>Throughout my entire career as engineer, I always ended up being the one responsible for designing the flow and management of information; and in some cases, even being the representative of (and responsible for) my department in IT projects.</p>
-   
+   <p>Decided to make the change, last year I planned two stages:
+      During the first half of 2022, I attended several courses:</p>
+      
+  - Python Programming
+  - Python for Data Analysis
+  - HTML5, CSS
+  - SQL Server 2019
+  - JAVA Standard Web Programming
+  - Javascript from scratch
+  
+   <p>And finally, in September, I started the Coding Bootcamp as the final stage in my initiation of this new path.</p>
