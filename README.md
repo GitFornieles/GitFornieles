@@ -4,9 +4,9 @@
 
 <h3>Hello!</h3>
 <p align="justified">
-   In my ten years experience as engineer, I've managed different kinds of projects and teams. A year ago I decided through carefull meditation, to transform my career and challange this new fast growing quicly evolving world of IT.
-   I've always had a knack for data/info management, finding logic (the true "why?") behind procesess and procedures, and for designing logical step by step solutions; so when I had the chance to assist a client in it's own management system design, I realized this was my true path.
-   And so, now, I am starting as a Full Stack Web Developer, but with 10 years of experience managin teams, information, budgets and projects; solving complex problems and meeting deadlines.
+   In my ten years experience as engineer, I've managed different kinds of projects and teams. A year ago I decided through carefull meditation, to transform my career and challange this new fast growing quicly evolving world of IT.</p>
+   <p>I've always had a knack for data/info management, finding logic (the true "why?") behind procesess and procedures, and for designing logical step by step solutions; so when I had the chance to assist a client in it's own management system design, I realized this was my true path.</p>
+  <p> And so, now, after finishing a Full Stack Developer Coding Bootcamp, I am starting as a Full Stack Web Developer (but with 10 years of experience managin teams, information, budgets and projects; solving complex problems and meeting deadlines).
 </p>
 
 
@@ -102,8 +102,8 @@
 
 <details>
  <summary><h3>My Journey So Far</h3></summary>
-   I first started coding in "Logo Writer". Yes, "the little turtle". A very simple program designed for helping children make their first steps in programming. And it was fun.
-   Some years later, I played a little with Basic and then Visual Basic; although always more as "something to do".
-   Finally, in a more "professional environment" I started working with Excel's macros at my first job. And even though it may not be considered strictly "programming", I saved hundreds of hours just by thinking the complete flow of information, detecting where and how to process it; and what output was required.
-   Throughout my entire career as engineer, I always ended up being the one responsible for designing the flow and management of information; and in some cases, even being the representative of my department in IT projects.
+   <p>I first started coding in "Logo Writer". Yes, "the little turtle". A very simple program designed for helping children make their first steps in programming. And it was fun.</p>
+   <p>Some years later, I played a little with Basic and then Visual Basic; although always more as "something to do".</p>
+   <p>Finally, in a more "professional environment" I started working with Excel's macros at my first job. And even though it may not be considered strictly "programming", I saved hundreds of hours just by thinking the complete flow of information, detecting where and how to process it; and what output was required.</p>
+   <p>Throughout my entire career as engineer, I always ended up being the one responsible for designing the flow and management of information; and in some cases, even being the representative of (and responsible for) my department in IT projects.</p>
    
