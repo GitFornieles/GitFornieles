@@ -4,7 +4,7 @@
 
 <h3>Hello!</h3>
 <p align="justified">
-   In my ten years experience as engineer, I've managed different kinds of projects and teams; managed information, budgets and projects; solving complex problems and meeting deadlines. A year ago I decided through carefull meditation, to transform my career and challange this new fast growing quicly evolving world of IT.</p>
+   In my ten year experience as engineer, I've managed different kinds of projects and teams, information, budgets and projects; solving complex problems and meeting deadlines. A year ago I decided through carefull meditation to transform my career and challange this new fast growing quicly evolving world of IT.</p>
    <p>I've always had a knack for data/info management, finding logic (the true "why?") behind procesess and procedures, and for designing logical step by step solutions; so when I had the chance to assist a client in it's own management system design, I realized this was my true path.</p>
   <p> And so, now, after finishing a Full Stack Developer Coding Bootcamp, I am starting as a Full Stack Web Developer.
 </p>
