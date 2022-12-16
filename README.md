@@ -4,7 +4,7 @@
 
 <h3>Hello!</h3>
 <p align="justified">
-   During my ten years as an engineed, I've been in charge of several kinds of projects and teams, information, budgets and projects; solving complex problems and meeting deadlines. A year ago, after analyzing my situation and considering all my options, I decided to make a break in my career, challenging myself through entering this new fast growing and quicly evolving world of IT.</p>
+   During my ten years as an engineer, I've been in charge of several kinds of projects and teams, information, budgets and projects; solving complex problems and meeting deadlines. A year ago, after analyzing my situation and considering all my options, I decided to make a break in my career, challenging myself through entering this new fast growing and quicly evolving world of IT.</p>
    <p>I've always had a knack for data/info management, finding logic (the true "how?") behind procesess and procedures. Moreover, my background as an engineer has gave me a like for designing logical step by step solutions, so when I had the chance to assist a client in it's own management system design, I realized this was what I wanted to dive into.</p>
   <p> Now, after finishing a Full Stack Developer Coding Bootcamp, I am beginning my path as a Full Stack Web Developer.
 </p>
