@@ -97,7 +97,7 @@
    <p>This stage ended with an individual integrative project.</p>
    
    <p>The second stage consisted of the development of projects in teams, using SCRUM methodology.
-    Projects quere organized in Sprints, MoSCoW method was used to establish priorities, and "Daily" meetings were scheduled  at the beginning of every day to organize every activity.
+    Projects were organized in Sprints, MoSCoW method was used to establish priorities, and "Daily" meetings were scheduled at the beginning of each day to organize every activity.
    Two complete projects were delivered:
     E-Commerce, presented before a Platforma5's jury.
     GetViral, presented before the Client.
