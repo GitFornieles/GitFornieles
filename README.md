@@ -51,8 +51,6 @@
 <td>Python</td>
 <td><img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></td>
 <td>numpy</td>
-![next white](https://user-images.githubusercontent.com/99204877/208532278-d6644f27-e1a9-46d3-82e3-35f1dc7cd638.svg)
-
 </tr>
 </table>
 
