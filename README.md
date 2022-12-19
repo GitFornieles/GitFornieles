@@ -103,7 +103,7 @@
     GetViral, presented before the Client.
 </p>
 
-### Repositories to see:
+### Repositories to see (in Progress):
 <table>
    <tr>
       <td>GetViral</td>
