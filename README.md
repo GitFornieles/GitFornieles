@@ -37,20 +37,22 @@
 <td>Express</td>
 </tr>
 <tr>
+<td><img align="left" alt="MsServer" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/99204877/208532565-77e4d918-3264-4e34-aa3a-f43b5f954850.png" /></td>
+<td>Next</td>
 <td><img align="left" alt="PostgresSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></td>
 <td>PostgreSQL</td>
 <td><img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /></td>
 <td>MySQL</td>
-<td><img align="left" alt="MsServer" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/99204877/207951378-10c0d79d-13e4-44a6-9bc7-a2943819ff23.png" /></td>
-<td>SQL Server 2019</td>
 </tr>
 <tr>
+<td><img align="left" alt="MsServer" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/99204877/207951378-10c0d79d-13e4-44a6-9bc7-a2943819ff23.png" /></td>
+<td>SQL Server 2019</td>
 <td><img align="left" alt="PostgresSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
 <td>Python</td>
 <td><img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></td>
 <td>numpy</td>
-<td><img align="left" alt="MsServer" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></td>
-<td>jupyter</td>
+![next white](https://user-images.githubusercontent.com/99204877/208532278-d6644f27-e1a9-46d3-82e3-35f1dc7cd638.svg)
+
 </tr>
 </table>
 
