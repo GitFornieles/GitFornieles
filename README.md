@@ -47,10 +47,10 @@
 <tr>
 <td><img align="left" alt="MsServer" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/99204877/207951378-10c0d79d-13e4-44a6-9bc7-a2943819ff23.png" /></td>
 <td>SQL Server 2019</td>
-<td><img align="left" alt="PostgresSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
+<td><img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></td>
+<td>MongoDB</td>
+<td><img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
 <td>Python</td>
-<td><img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></td>
-<td>numpy</td>
 </tr>
 </table>
 
@@ -72,8 +72,6 @@
 
 ### 🌱 I’m currently learning:
   There is always something to learn! After recently finishing Plataforma 5's Coding Bootcamp, I'll be moving forward to:
-  - MongoDB
-  - NextJS
   - React Native
   - BlockChain
 <br />
